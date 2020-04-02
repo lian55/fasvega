@@ -1,7 +1,7 @@
 "use strict";
 
 
-const driveCredentials = require('./data/driveCredentials.json');
+const driveCredentials = require('./AIzaSyAr3dg5Naqil2mYq1WRcW1vnulBsb69468');
 
 const DRIVE_CLIENT_ID = driveCredentials.clientId;
 const DRIVE_CLIENT_SECRET = driveCredentials.clientSecret;
